@@ -12,7 +12,9 @@ plugin this plugin will give plugins and mods a live update of what screen you a
 
 ## Jellyflow - status completed working
 
-screenshots to be uploaded later okay screenshots dont do it justice.. have a video https://www.blueboxofdoom.uk/filebrowser/api/public/dl/h0GnrESG?inline=true
+screenshots to be uploaded later okay screenshots dont do it justice.. have a video had to lower video quality because of github rules 
+
+https://github.com/user-attachments/assets/c7fdddd6-a04c-4bc0-a9ae-7bec0278d0a0
 
 a full feature plugin for coverflow in your library fast and supports large libraries (large here is my 350000 item library) if you remember the old itunes you will understand what i mean.
 
