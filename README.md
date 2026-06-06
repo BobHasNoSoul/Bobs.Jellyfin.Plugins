@@ -25,8 +25,14 @@ a full feature plugin for coverflow in your library fast and supports large libr
 
 a remake as a stand alone plugin for my Updoot remake it has no need for a flask app all content is supported with more features and better styling
 
-## JellySocial - status cooking... about 70% done working on the messages system
-each profile gets their own page profile and wall where users can send messages and share their favorites or watchlist.. so other users if they see your 
+## JellyProfile social features inside of your jellyfin instance 
+
+<img width="758" height="330" alt="Screenshot 2026-06-06 111746" src="https://github.com/user-attachments/assets/07307c58-4510-4871-b608-1b678e36acfc" />
+<img width="751" height="157" alt="Screenshot 2026-06-06 111707" src="https://github.com/user-attachments/assets/554bf456-8225-40b7-a0bd-ab602cbe784d" />
+<img width="345" height="205" alt="Screenshot 2026-06-06 111653" src="https://github.com/user-attachments/assets/f5150ef7-0cc3-40b4-9ac1-37ef96b56914" />
+<img width="748" height="799" alt="Screenshot 2026-06-06 111549" src="https://github.com/user-attachments/assets/60ad7d77-70ec-47e0-a6c6-3571cc85efd4" />
+<img width="746" height="521" alt="Screenshot 2026-06-06 111812" src="https://github.com/user-attachments/assets/25fc1f13-4978-483c-a827-6a50ffd6c002" />
+<img width="756" height="175" alt="Screenshot 2026-06-06 111804" src="https://github.com/user-attachments/assets/c26423e5-34f6-47bd-97fa-53539aaad773" />
 
 # Personal Note
 
